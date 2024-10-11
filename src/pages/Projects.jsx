@@ -12,7 +12,7 @@ const Project = () => {
       </h1>
 
       <div className='mt-5' flex flex-col gap-3 text-slate-500>
-        <p>NANTI DIISI BUAT PROJECT</p>
+        <p>Throughout my college journey, I’ve developed several personal projects that showcase my passion for technology and innovation. These projects reflect my commitment to continuous learning in AI and web development.</p>
       </div>
 
       <div className='flex flex-wrap my-20 gap-16'>
