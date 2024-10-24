@@ -7,6 +7,7 @@ import tfi from './TFI.png'
 import logo from './logo.svg'
 import fiverr from './fiverr.png'
 import dialogix from './dialogix.png'
+import imaginate from './imaginate.png'
 
 export {
     hero,
@@ -18,5 +19,5 @@ export {
     logo,
     fiverr,
     dialogix,
-
+    imaginate,
 }

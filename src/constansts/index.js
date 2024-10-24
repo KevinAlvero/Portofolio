@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla, tfi, fiverr, dialogix} from "../assets/images";
+import { meta, shopify, starbucks, tesla, tfi, fiverr, dialogix, imaginate} from "../assets/images";
 import {
     car,
     contact,
@@ -154,7 +154,15 @@ export const projects = [
         name: 'Dialogix',
         description: 'Dialogix is a conversational AI project built using Node.js and the Hugging Face GPT-2 API. Inspired by a JavaScript Mastery tutorial, it enables developers to easily integrate AI-driven dialogue into their web applications.',
         link: 'https://github.com/KevinAlvero/Dialogix.git',
-        link1: 'https://dialogix-p1p4at7mc-kevinalveros-projects.vercel.app/'
+        link1: 'https://dialogix-one.vercel.app/'
+    },
+    {
+        iconUrl: imaginate,
+        theme: 'btn-back-green',
+        name: 'Imaginate',
+        description: ' Imaginate is a creative project built using Vite, React, and MongoDB, leveraging the Hugging Face Flux-1 API. It allows users to generate images based on prompts, making it easy for developers to integrate AI-driven image generation into their web applications. Inspired by innovative web development techniques, Imaginate offers a user friendly interface for generating unique visuals.',
+        link: 'https://github.com/KevinAlvero/Imaginate',
+        link1: 'https://imaginate1.vercel.app/'
     },
     
 ];
